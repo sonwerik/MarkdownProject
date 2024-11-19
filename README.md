@@ -9,3 +9,25 @@ Aquest projecte és una pràctica per aprendre a utilitzar Git amb Markdown. El 
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
+
+## Introduction
+
+Aquest projecte tracta sobre com utilitzar Markdown i Git. Pots aprendre més sobre Git a la [Git Documentation](https://git-scm.com/doc).
+
+## Features
+
+- Aprenentatge de Git.
+- Ús de Markdown per documentar projectes.
+
+## Installation
+
+1. Clona el repositori: `git clone <URL>`
+2. Navega al directori del projecte: `cd MarkdownProject`
+
+## Usage
+
+Llegeix els fitxers i explora els continguts del repositori.
+
+## License
+
+Aquest projecte no té llicència definida actualment.
