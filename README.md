@@ -14,6 +14,8 @@ Aquest projecte és una pràctica per aprendre a utilitzar Git amb Markdown. El 
 
 Aquest projecte tracta sobre com utilitzar Markdown i Git. Pots aprendre més sobre Git a la [Git Documentation](https://git-scm.com/doc).
 
+![Project Logo](images/logo.png)
+
 ## Features
 
 - Aprenentatge de Git.
