@@ -33,3 +33,11 @@ Llegeix els fitxers i explora els continguts del repositori.
 ## License
 
 Aquest projecte no té llicència definida actualment.
+
+## Features
+
+| Feature             | Description                              | Status      |
+|---------------------|---------------------------------------   |-------------|
+| Markdown Support    | Suport per a documentació amb Markdown   | Completed   |
+| Git Integration     | Integració amb repositoris Git           | In Progress |
+| Responsive Design   | Disseny adaptatiu per dispositius mòbils | Not Started |
