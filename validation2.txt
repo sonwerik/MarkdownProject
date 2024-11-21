@@ -1,0 +1,117 @@
+commit 1552e50678889305aa118ec56ec1dcd25aac53b8
+Merge: d2bebfe 12a55ac
+Author: Èrik Lledó <65349896+sonwerik@users.noreply.github.com>
+Date:   Wed Nov 20 12:37:39 2024 +0100
+
+    Merge pull request #2 from sonwerik/feature/1-contribution-guidelines
+    
+    Add contribution guidelines
+
+commit 12a55ac63d0ffc6705b6d30ea3b53f6681cd82e1
+Author: sonwerik <sonwerik@gmail.com>
+Date:   Tue Nov 19 14:24:36 2024 +0100
+
+    Add contribution guidelines
+
+ CONTRIBUTING.md | 18 ++++++++++++++++++
+ 1 file changed, 18 insertions(+)
+
+commit d2bebfef080c4c841b9d6a022eda6200518c5490
+Author: sonwerik <sonwerik@gmail.com>
+Date:   Tue Nov 19 10:39:17 2024 +0100
+
+    Add validation 1 file
+
+ validation1.txt | 90 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 90 insertions(+)
+
+commit 4d0779fc5860f6337a00125ba8b67de23f166262
+Author: sonwerik <sonwerik@gmail.com>
+Date:   Tue Nov 19 10:28:18 2024 +0100
+
+    Merge add-license brach into main
+
+ LICENSE.md | 10 ++++++++++
+ 1 file changed, 10 insertions(+)
+
+commit e0b9937f8e2fec62f81240dff43705d6c17c0281
+Author: sonwerik <sonwerik@gmail.com>
+Date:   Tue Nov 19 10:23:11 2024 +0100
+
+    Enhance README with formatting
+
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit b44c754c3e721fee116c19916a5afd88a921be78
+Author: sonwerik <sonwerik@gmail.com>
+Date:   Tue Nov 19 10:21:13 2024 +0100
+
+    Enhance README with formatting
+
+ README.md | 21 +++++++++++++++++++++
+ 1 file changed, 21 insertions(+)
+
+commit 0f5c65fe75e1d90d3bd9ed6cdcb3e320a9fbd66d
+Author: sonwerik <sonwerik@gmail.com>
+Date:   Tue Nov 19 10:14:17 2024 +0100
+
+    Add feature list table to README
+
+ README.md | 8 ++++++++
+ 1 file changed, 8 insertions(+)
+
+commit 253aa7dc2b6e43f305f00ca1d47eb91af7f4d1da
+Author: sonwerik <sonwerik@gmail.com>
+Date:   Tue Nov 19 10:06:34 2024 +0100
+
+    Add project logo to README
+
+ README.md       |   2 ++
+ images/logo.png | Bin 0 -> 32590 bytes
+ 2 files changed, 2 insertions(+)
+
+commit 57f3e2fc6b52802c5b74194a2dcaae1b06ba376c
+Author: sonwerik <sonwerik@gmail.com>
+Date:   Tue Nov 19 10:00:54 2024 +0100
+
+    Add sections to README
+
+ README.md | 22 ++++++++++++++++++++++
+ 1 file changed, 22 insertions(+)
+
+commit 74bb248e86c27470c072cbc2783c5cd3e939ecdf
+Author: sonwerik <sonwerik@gmail.com>
+Date:   Tue Nov 19 09:59:04 2024 +0100
+
+    Add hyperlinks to README
+
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 12d3df1926de7e450c41f541df903a23b6efd357
+Author: sonwerik <sonwerik@gmail.com>
+Date:   Tue Nov 19 09:53:46 2024 +0100
+
+    Add Table of Contents to README
+
+ README.md | 8 ++++++++
+ 1 file changed, 8 insertions(+)
+
+commit 307d138d66cf4fb0d87a94ec3409e679458aa4b9
+Author: sonwerik <sonwerik@gmail.com>
+Date:   Tue Nov 19 09:50:10 2024 +0100
+
+    Add README with project introduction
+
+ README.md | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit 8ad1d905bacdc808f32a9f559b7320bb2c252312
+Author: sonwerik <sonwerik@gmail.com>
+Date:   Tue Nov 19 09:44:36 2024 +0100
+
+    Initial commit with .gitignore
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
